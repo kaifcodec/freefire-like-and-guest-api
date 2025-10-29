@@ -40,7 +40,7 @@ function attachCtorHook(klass) {
             console.log("[*] PlatformRegisterReq ctor called - registration starting");
         },
         onLeave: async function () {
-            console.log("[*] Registration completed, waiting 3 seconds then resetting...");
+            console.log("[*] Registration completed, waiting 0.85 seconds then resetting...");
             
             // Wait for registration to fully complete
             await wait(850);
