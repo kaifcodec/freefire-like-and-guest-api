@@ -1,6 +1,7 @@
 # FreeFire Guest generator, Like & API Toolkit
 ---
 - For any question write an email to: kaifcodec@gmail.com
+- For deployable JWT generator, check: https://github.com/kaifcodec/freefire-jwt-generator-api.git
 ---
 ## Disclaimer & Responsible Use
 ### ⚠️ Regional Guest Account Warning: 
