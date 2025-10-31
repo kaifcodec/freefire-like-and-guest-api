@@ -1,5 +1,6 @@
 # FreeFire Guest generator, Like & API Toolkit
 ---
+## ⚠️ For New OB51 updated scripts and all change docs, open a new issue.
 - For any question write an email to: kaifcodec@gmail.com
 - For deployable JWT generator, check: https://github.com/kaifcodec/freefire-jwt-generator-api.git
 ---
