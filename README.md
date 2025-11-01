@@ -200,6 +200,7 @@ freefire-like-and-guest-api/
 - 💎 Inside the `dev/not_imp` & `dev/frida_injections/not_imp/` there are my all works, the scripts, methods i used to create this repository. It's more than a diamond if you can understand what those things are for.
  
 ---
+- Counting since 31/10/2025
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kaifcodec.freefire-like-and-guest-api&style=for-the-badge&color=0078ff" alt="Repo Views">
 </p>
