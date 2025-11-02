@@ -2,7 +2,7 @@
 ---
 ## ⚠️ For New OB51 updated scripts and all change docs, open a new issue.
 - For any question write an email to: kaifcodec@gmail.com
-- For deployable JWT generator, check: https://github.com/kaifcodec/freefire-jwt-generator-api.git
+- For deployable JWT generator, check: https://github.com/kaifcodec/freefire-jwt-generator-api.git (OB51_FIXED)
 ---
 ## Disclaimer & Responsible Use
 ### ⚠️ Regional Guest Account Warning: 
