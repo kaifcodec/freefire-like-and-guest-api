@@ -1,9 +1,5 @@
 # FreeFire Guest generator, Like & API Toolkit
 ---
-## ⚠️ For New OB51 updated scripts and all change docs, open a new issue.
-- For any question write an email to: kaifcodec@gmail.com
-- For deployable JWT generator, check: https://github.com/kaifcodec/freefire-jwt-generator-api.git (OB51_FIXED)
----
 ## Disclaimer & Responsible Use
 ### ⚠️ Regional Guest Account Warning: 
 - The guest accounts in `guests_manager/` are from the IND server. If you are from a different region, replace these existing ones with your regional guests to properly receive likes.
