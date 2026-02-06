@@ -118,6 +118,13 @@ Automates creating and capturing **Free Fire guest accounts** via **Frida**, for
 - `guests_manager/guests_converted.json`: automation-ready array used by the sender.
 - `usage_history/guest_usage_by_target.json`: tracks which guest has liked which target to enforce one-like-per-guest-per-target.
 
+## ❤️ Support the project
+
+If this project helps you, consider supporting its development:
+
+**BTC (SegWit):** `bc1q0dzkuav8lq9lwu7gc457vwlda4utfcr5hpv7ka`
+
+---
 ---
 ## 🌲Project tree
 ```bash
