@@ -4,23 +4,7 @@
 ### ⚠️ Regional Guest Account Warning: 
 - The guest accounts in `guests_manager/` are from the IND server. If you are from a different region, replace these existing ones with your regional guests to properly receive likes.
 ---
-**Important → read before using this repository.**
 
-This project is provided **solely for research, defensive testing, educational and interoperability purposes**. By using the code in this repository you agree to all of the following:
-
-- **Lawful, authorized use only.** You must have explicit authorization from the owner of any systems, accounts, or services you interact with. Do **not** use this software to access, modify, or automate accounts, services, or data that you do not own or do not have written permission to test.
-
-- **Respect third-party terms and local law.** Many online services explicitly prohibit automated account creation, automated interactions, or reverse engineering in their Terms of Service. You are responsible for ensuring your use complies with all applicable laws and the terms of any service you interact with.
-
-- **No endorsement of malicious activity.** The author(s) and contributors do **not** condone, support, or assist fraud, harassment, spam, unauthorized account access, or any other malicious behavior. Use of this code to perform such activities is strictly prohibited.
-
-- **No warranty — use at your own risk.** This software is provided **as-is**, with no warranties of any kind (express or implied). The author(s) expressly disclaim all liability for damages or losses resulting from the use, misuse, or inability to use this code.
-
-- **Operational safety and limits.** If you use automation against live services, tune concurrency and rate limits responsibly. Excessive or careless automated requests can harm services, trigger blocks, or expose you to legal risk.
-
-- **Data handling & privacy.** Any account data, tokens, or personally identifiable information captured or stored using the tools in this repository must be handled in accordance with applicable privacy laws. Do not retain or publish data that you are not authorized to store.
-
-- **Responsible disclosure.** If you discover a security vulnerability in third-party software while using this project, follow responsible disclosure best practices: do not exploit the issue, and report it privately to the affected vendor or maintainer.
 
 ### Removal or modification of this disclaimer
 If you are a repository maintainer or developer and wish to remove or modify this disclaimer, **contact the repository owner first** at **kaifcodec@gmail.com** to request permission and discuss legal/ethical considerations. Changes to the disclaimer should not be used to enable or excuse unlawful or unauthorized activity.
