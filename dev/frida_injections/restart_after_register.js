@@ -41,17 +41,17 @@ function attachCtorHook(klass) {
         },
         onLeave: async function () {
             console.log("[*] Registration completed, waiting 0.85 seconds then resetting...");
-            
+
             // Wait for registration to fully complete
-            await wait(850);
-            
+            await wait(857);
+
             // Now force app restart after successful registration
             Java.perform(() => {
                 try {
                     // Method 1: Kill app process and restart (most reliable)
                     const ActivityThread = Java.use("android.app.ActivityThread");
                     const context = ActivityThread.currentApplication().getApplicationContext();
-                    
+
                     Java.scheduleOnMainThread(() => {
                         try {
                             // Get current process ID
