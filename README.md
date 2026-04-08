@@ -191,7 +191,7 @@ freefire-like-and-guest-api/
 - 💎 Inside the `dev/not_imp` & `dev/frida_injections/not_imp/` there are my all works, the scripts, methods i used to create this repository. It's more than a diamond if you can understand what those things are for.
 
 ---
-<!-- GitAds-Verify: 9635CKK9BJW9GZE47E6E7U3S3Y9LSZG8 -->
+<!-- GitAds-Verify: O1QUTV9ON2BG9R8VQ1KOFLRNER35635I -->
 ---
 - Counting since 31/10/2025
 <p align="center">
