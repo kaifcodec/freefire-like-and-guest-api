@@ -5,7 +5,11 @@
 - The guest accounts in `guests_manager/` are from the IND server. If you are from a different region, replace these existing ones with your regional guests to properly receive likes.
 ---
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=kaifcodec/freefire-like-and-guest-api@github)](https://gitads.dev/v1/ad-track?source=kaifcodec/freefire-like-and-guest-api@github)
 
+
+---
 ### Removal or modification of this disclaimer
 If you are a repository maintainer or developer and wish to remove or modify this disclaimer, **contact the repository owner first** at **kaifcodec@gmail.com** to request permission and discuss legal/ethical considerations. Changes to the disclaimer should not be used to enable or excuse unlawful or unauthorized activity.
 
